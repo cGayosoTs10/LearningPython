@@ -15,7 +15,7 @@ Planned:
 - [ ] **Rewrite both programs in Object Oriented paradigm.**
 - [ ] **Add Makefiles for simplified building and execution if possible**
 
-<h2 align="center">🚧 Roadmap & Planned Projects (TODOs)</h2>
+<h2 align="center">Roadmap & Planned Projects (TODOs)</h2>
 
 - [ ] **`fastapi_store_api`** — RESTful store API built with FastAPI.
 - [ ] **`log_analyzer`** — Utility to parse, filter, and extract insights from system logs.
