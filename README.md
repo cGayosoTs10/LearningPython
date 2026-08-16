@@ -2,9 +2,6 @@
 <p align="center">My collections of small projects, utilities and games, done for the sake of learning.</p>
 
 ---
-
-<h2 align="center">Projects</h2>
-
 ### DONE && ONGOING:
 
 | Project | Description | Tech / Features |
